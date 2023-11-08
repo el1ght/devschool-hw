@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8adf2e6-0d8d-4615-9be8-8103b05cdf95" name="Changes" comment="add hw-1" />
+    <list default="true" id="e8adf2e6-0d8d-4615-9be8-8103b05cdf95" name="Changes" comment="vcs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-4/el1ght-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework-4/el1ght-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-4/el1ght-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework-4/el1ght-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-4/el1ght-3.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework-4/el1ght-3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-4/el1ght-4.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework-4/el1ght-4.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,14 +26,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw-1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Xu2Tcj1EC7KzuH6MG6ovKH3RQ5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -41,6 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "hw-4",
     "last_opened_file_path": "/Users/el1ght/programming/devschool-hw",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699464652775</updated>
       <workItem from="1699464653792" duration="470000" />
+      <workItem from="1699465125130" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -75,7 +83,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699465073541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add hw-2">
+      <option name="closed" value="true" />
+      <created>1699465173642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699465173642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vcs">
+      <option name="closed" value="true" />
+      <created>1699465450849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699465450849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +119,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="add hw-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw-1" />
+    <MESSAGE value="add hw-2" />
+    <MESSAGE value="vcs" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs" />
   </component>
 </project>
