@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
-    <list default="true" id="e8adf2e6-0d8d-4615-9be8-8103b05cdf95" name="Changes" comment="vcs" />
-
+    <list default="true" id="e8adf2e6-0d8d-4615-9be8-8103b05cdf95" name="Changes" comment="add screens" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +20,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-
         <entry key="$PROJECT_DIR$" value="hw-4" />
-
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,9 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-
     "git-widget-placeholder": "main",
-
     "last_opened_file_path": "/Users/el1ght/programming/devschool-hw",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -104,7 +96,6 @@
       <option name="project" value="LOCAL" />
       <updated>1699465450849</updated>
     </task>
-
     <task id="LOCAL-00005" summary="add hw-4">
       <option name="closed" value="true" />
       <created>1699466511242</created>
@@ -113,8 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699466511242</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
-
+    <task id="LOCAL-00006" summary="add screens">
+      <option name="closed" value="true" />
+      <created>1699467315313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699467315313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,9 +134,8 @@
     <MESSAGE value="add hw-1" />
     <MESSAGE value="add hw-2" />
     <MESSAGE value="vcs" />
-
     <MESSAGE value="add hw-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw-4" />
-
+    <MESSAGE value="add screens" />
+    <option name="LAST_COMMIT_MESSAGE" value="add screens" />
   </component>
 </project>
